@@ -1,1 +1,1 @@
-# react-card-game
+# Card Game feito com React.
